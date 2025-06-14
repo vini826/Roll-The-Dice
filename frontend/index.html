@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roll The Dice - Simulador de RPG</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Simulador de Rolagem de Dados de RPG</h1>
+
+        <div class="dice-selection">
+            <label for="diceType">Escolha o tipo de dado:</label>
+            <select id="diceType">
+                <option value="4">d4</option>
+                <option value="6" selected>d6</option>
+                <option value="8">d8</option>
+                <option value="10">d10</option>
+                <option value="12">d12</option>
+                <option value="20">d20</option>
+                <option value="100">d100</option>
+            </select>
+            <button id="rollButton">Rolar Dado</button>
+        </div>
+
+        <div class="result-area">
+            <h2>Resultado:</h2>
+            <p id="resultDisplay">Seu resultado aparecerá aqui.</p>
+        </div>
+
+        <div id="errorDisplay" class="error-message"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
