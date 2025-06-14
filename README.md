@@ -114,6 +114,10 @@ Limpar Histórico: Se desejar, clique no botão "Limpar" na área do histórico 
 Contato
 Para dúvidas, sugestões ou mais informações, sinta-se à vontade para entrar em contato:
 
-Vinicius Chiabai Fernandes
-Email: vinicius.chiabai@gmail.com
-LinkedIn: www.linkedin.com/in/vinícius-chiabai
+## Contato
+
+Para dúvidas, sugestões ou mais informações, sinta-se à vontade para entrar em contato:
+
+* **Vinicius Chiabai Fernandes**
+* **Email:** vinicius.chiabai@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/vinícius-chiabai](https://www.linkedin.com/in/vinícius-chiabai)
